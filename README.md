@@ -1,3 +1,5 @@
 # java-assignment
 
-$ Run
+```bash
+$ Run the program
+```
